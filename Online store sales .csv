@@ -1,0 +1,11 @@
+Order ID,Customer Name,Product ID,Product Name,Quantity Sold,Price Per Unit,Order Date
+100,,P1001,Widget A,5,10.5,2023-09-01
+101,John Smith,P1001,Widget A,5,10.5,2023-08-01
+102,Jane Doe,P1002,Widget B,3,8.25,2023-08-02
+103,Bob Johnson,P1003,Widget C,2,12,2023-08-03
+104,Alice Williams,P1004,Widget D,10,6.75,2023-08-03
+105,Mike Brown,P1005,Widget E,7,14.5,2023-08-04
+106,Emily Davis,P1006,Widget F,4,9.99,2023-08-05
+107,David Lee,P1007,Widget G,6,11.25,2023-08-06
+107,David Lee,P1007,Widget G,6,11.25,2023-08-06
+108,,P1007,Widget G,6,11.25,2023-07-06
